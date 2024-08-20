@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "stm32f4xx.h": "c",
+        "bsp_systick.h": "c",
+        "bsp_system.h": "c",
+        "stm32f4xx_usart.h": "c",
+        "stm32f4xx_rcc.h": "c",
+        "stm32f4xx_gpio.h": "c",
+        "freertos.h": "c",
+        "task.h": "c"
+    }
+}
